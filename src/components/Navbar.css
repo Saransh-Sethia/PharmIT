@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    width: 100%;
+    height: 40px;
+    background-color: #0c0c47;
+    position: fixed;
+}
+
+.navbar-i{
+    justify-content: space-between;
+
+}
+
+.link {
+    color:#db8419;
+    height: 7px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.sup{
+    color: white;
+    border-radius: 200%;
+    background-color: #f10d0d;
+}
